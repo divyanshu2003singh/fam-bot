@@ -6,7 +6,7 @@ const ChatModel = require('./models/chatModel');
 const app = express();
 const port = 4000;
 
-mongoose.connect('mongodb+srv://divyanshu:divyanshu@cluster0.57fvbtj.mongodb.net/', {
+mongoose.connect('//your mongo url', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
