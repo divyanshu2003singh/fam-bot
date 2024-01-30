@@ -20,7 +20,7 @@ Fam Chatbot is a simple chatbot built with Node.js, Express, and MongoDB. It res
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/your-username/fam-chatbot.git](https://github.com/your-username/fam-chatbot.git)
+git clone https://github.com/divyanshu2003singh/fam-bot.git
 ```
 
 2. Navigate to the project directory and install dependencies:
