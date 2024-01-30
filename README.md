@@ -40,7 +40,7 @@ The server will be running at http://localhost:4000 by default.
 
 **Usage:**
 
-1. Populate the MongoDB database with your custom dataset. Update the `extendedData` array in `app.js` to include your questions and answers.
+1. Populate the MongoDB database with your custom dataset. Update the `initialData` array in `app.js` to include your questions and answers.
 2. Use Postman or any API testing tool to interact with the chatbot endpoint:
 
 URL: http://localhost:4000/chat
