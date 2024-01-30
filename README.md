@@ -26,7 +26,7 @@ git clone [https://github.com/your-username/fam-chatbot.git](https://github.com/
 2. Navigate to the project directory and install dependencies:
 
 ```bash
-cd fam-chatbot
+cd fam-bot
 npm install
 ```
 
@@ -71,18 +71,4 @@ Feel free to customize the chatbot's behavior by updating the dataset in MongoDB
 
 We welcome contributions to Fam Chatbot! If you have suggestions, found a bug, or want to add new features, please open an issue or submit a pull request. See the CONTRIBUTING.md file for details.
 
-**License:**
-
-This project is licensed under the MIT License.
-
-**Deploying:**
-
-You can deploy Fam Chatbot to platforms like Heroku or AWS for wider accessibility. Check out the DEPLOYING.md file for instructions.
-
-**Enjoy!**
-
-We hope you find Fam Chatbot useful! Let us know what you think and how you'd like it to be improved.
-
-
-Remember, the best README is the one that best serves your project and users!
 
